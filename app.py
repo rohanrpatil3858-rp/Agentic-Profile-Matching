@@ -53,7 +53,7 @@ def main() -> None:
         gr.Markdown(EXAMPLES_MARKDOWN)
 
         thread_state = gr.State(new_thread_id)
-        chatbot = gr.Chatbot(height=500, type="messages", label="Recruiting Assistant")
+        chatbot = gr.Chatbot(height=500, label="Recruiting Assistant")
         msg = gr.Textbox(
             label="Message",
             placeholder="Describe a role, or ask about the current shortlist...",
