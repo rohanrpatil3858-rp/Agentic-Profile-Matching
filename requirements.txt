@@ -1,0 +1,27 @@
+# LangGraph agent
+langgraph>=0.2.0
+
+# Document text extraction (Milestone 1: fs_tools.py)
+pypdf>=4.2.0
+python-docx>=1.1.0
+
+# Structured input/output validation (Milestone 1: fs_tools.py)
+pydantic>=2.6.0
+
+# Vector store + embeddings + hybrid retrieval (Milestone 2: resume_rag.py / job_matcher.py)
+chromadb>=0.5.0
+sentence-transformers>=2.6.0
+rank-bm25>=0.2.2
+numpy>=1.24.0
+
+# LLM client (OpenAI-compatible, used with OpenRouter)
+openai>=1.30.0
+
+# Load environment variables from a .env file
+python-dotenv>=1.0.0
+
+# Chat UI
+gradio>=4.30.0
+
+# Used only by scripts/generate_dataset.py to create synthetic sample resumes (PDF)
+reportlab>=4.0.0

@@ -1,0 +1,23 @@
+Senior Python Backend Developer
+
+Minimum experience: 5+ years
+
+Responsibilities:
+- Build and maintain scalable REST APIs and microservices.
+- Design database schemas and optimize query performance.
+- Mentor junior engineers and drive code quality.
+
+Required skills:
+- Python
+- Django
+- FastAPI
+- REST
+- PostgreSQL
+- SQL
+
+Preferred skills:
+- Docker
+- Redis
+- Celery
+- AWS
+- Microservices

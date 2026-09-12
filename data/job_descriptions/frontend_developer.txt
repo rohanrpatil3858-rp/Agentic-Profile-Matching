@@ -1,0 +1,22 @@
+Frontend Developer
+
+Minimum experience: 3+ years
+
+Responsibilities:
+- Develop responsive, accessible web interfaces.
+- Build reusable UI components and design systems.
+- Optimize front-end performance and user experience.
+
+Required skills:
+- JavaScript
+- TypeScript
+- React
+- HTML
+- CSS
+
+Preferred skills:
+- Next.js
+- Redux
+- Jest
+- Tailwind
+- GraphQL

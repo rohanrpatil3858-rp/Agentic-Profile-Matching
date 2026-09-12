@@ -1,0 +1,24 @@
+DevOps / Cloud Engineer
+
+Minimum experience: 4+ years
+
+Responsibilities:
+- Automate CI/CD pipelines and infrastructure provisioning.
+- Manage container orchestration and cloud infrastructure.
+- Implement monitoring, logging and incident response.
+
+Required skills:
+- Docker
+- Kubernetes
+- CI/CD
+- Terraform
+- AWS
+- Linux
+
+Preferred skills:
+- GCP
+- Azure
+- Ansible
+- Jenkins
+- Prometheus
+- Python

@@ -1,0 +1,24 @@
+Full Stack Developer
+
+Minimum experience: 3+ years
+
+Responsibilities:
+- Build end-to-end features across front-end and back-end.
+- Design REST/GraphQL APIs and integrate with databases.
+- Own features from design through deployment.
+
+Required skills:
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Express
+- MongoDB
+
+Preferred skills:
+- Python
+- PostgreSQL
+- Docker
+- AWS
+- GraphQL
+- CI/CD

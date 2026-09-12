@@ -1,0 +1,22 @@
+Data Analyst
+
+Minimum experience: 2+ years
+
+Responsibilities:
+- Build dashboards and reports for business stakeholders.
+- Perform ad-hoc analysis to answer product questions.
+- Define and track key performance metrics.
+
+Required skills:
+- SQL
+- Excel
+- Tableau
+- Data Analysis
+- Statistics
+
+Preferred skills:
+- Python
+- Power BI
+- Pandas
+- R
+- ETL

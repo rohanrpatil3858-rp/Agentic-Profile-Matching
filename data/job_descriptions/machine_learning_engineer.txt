@@ -1,0 +1,23 @@
+Machine Learning Engineer
+
+Minimum experience: 4+ years
+
+Responsibilities:
+- Design, train and deploy ML models to production.
+- Build NLP and retrieval-augmented generation (RAG) pipelines.
+- Collaborate with data engineering on data quality and pipelines.
+
+Required skills:
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+- NLP
+
+Preferred skills:
+- TensorFlow
+- Hugging Face
+- LLM
+- Docker
+- AWS
+- MLOps
